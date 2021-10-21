@@ -171,7 +171,7 @@ module:
           - ../proto/wtools/amid/l3/git/l0
           - ../proto/wtools/amid/l3/git/l0/Path.ss
           - ../proto/wtools/amid/l3/git.test
-          - ../proto/wtools/amid/l3/git.test/Path.test.ss
+          - ../proto/wtools/amid/l3/git.test/GitPath.test.ss
     submodule:
       wTools:
         path: 'npm:///wTools'
