@@ -168,8 +168,8 @@ module:
           - ../proto/wtools/amid/l3/git/include
           - ../proto/wtools/amid/l3/git/include/GitPathBasic.ss
           - ../proto/wtools/amid/l3/git/include/GitPathMid.ss
-          - ../proto/wtools/amid/l3/git/l1
-          - ../proto/wtools/amid/l3/git/l1/Path.ss
+          - ../proto/wtools/amid/l3/git/l0
+          - ../proto/wtools/amid/l3/git/l0/Path.ss
           - ../proto/wtools/amid/l3/git.test
           - ../proto/wtools/amid/l3/git.test/Path.test.ss
     submodule:
