@@ -28,13 +28,13 @@
     "url": "https://github.com/Wandalen/wGitPath/issues"
   },
   "dependencies": {
-    "wuribasic": "",
-    "wTools": "",
-    "wstringsextra": "",
-    "wfilesbasic": ""
+    "wuribasic": "gamma",
+    "wTools": "gamma",
+    "wstringsextra": "gamma",
+    "wfilesbasic": "gamma"
   },
   "devDependencies": {
-    "wTesting": "",
+    "wTesting": "gamma",
     "eslint": "7.32.0"
   },
   "keywords": [
