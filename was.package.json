@@ -2,9 +2,9 @@
   "name": "wgitpath",
   "version": "0.3.394",
   "description": "Collection of cross-platform routines to operate over git paths reliably and consistently. GitPath leverages parsing, normalizing, nativizing git paths. Use the module to get uniform experience from playing with paths on different platforms.",
-  "author": "Kostiantyn Wandalen <wanalen@01.school>",
+  "author": "Kostiantyn Wandalen <wandalen@obox.systems>",
   "contributors": [
-    "Kostiantyn Wandalen <wanalen@01.school>",
+    "Kostiantyn Wandalen <wandalen@obox.systems>",
     "Dmytro Kryvoruchko <dm.vict.kr@gmail.com>"
   ],
   "license": "MIT",
