@@ -3,8 +3,8 @@ root:
   - wGitPath.out
 consistency:
   ../will.yml: &ref_0
-    hash: 6e44d3d2e78d6b0b82e966496b55a229
-    size: 6992
+    hash: 7c4de34d719606e03719e78cbc5171b7
+    size: 7000
 module:
   wGitPath.out:
     about:
@@ -1507,5 +1507,5 @@ module:
           - 'build::npm'
     consistency:
       ../will.yml:
-        hash: 6e44d3d2e78d6b0b82e966496b55a229
-        size: 6992
+        hash: 7c4de34d719606e03719e78cbc5171b7
+        size: 7000
