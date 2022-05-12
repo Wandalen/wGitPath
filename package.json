@@ -1,6 +1,6 @@
 {
   "name": "wgitpath",
-  "version": "0.3.401",
+  "version": "0.3.402",
   "description": "Collection of cross-platform routines to operate over git paths reliably and consistently. GitPath leverages parsing, normalizing, nativizing git paths. Use the module to get uniform experience from playing with paths on different platforms.",
   "author": "Kostiantyn Wandalen <wandalen@obox.systems>",
   "contributors": [
@@ -28,13 +28,13 @@
     "url": "https://github.com/Wandalen/wGitPath/issues"
   },
   "dependencies": {
-    "wuribasic": "alpha",
-    "wTools": "alpha",
-    "wstringsextra": "alpha",
-    "wfilesbasic": "alpha"
+    "wuribasic": "latest",
+    "wTools": "latest",
+    "wstringsextra": "latest",
+    "wfilesbasic": "latest"
   },
   "devDependencies": {
-    "wTesting": "alpha",
+    "wTesting": "latest",
     "eslint": "7.32.0"
   },
   "keywords": [
